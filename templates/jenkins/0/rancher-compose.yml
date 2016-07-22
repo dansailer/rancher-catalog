@@ -1,6 +1,6 @@
 .catalog:
   name: Jenkins
-  version: jenkins:latest-rancher1
+  version: "v0.1.0_jenkins:latest"
   description: |
     Jenkins CI management server.
   questions:
