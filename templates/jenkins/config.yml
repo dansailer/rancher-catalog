@@ -1,5 +1,5 @@
 name: Jenkins
 description: |
-  Jenkins CI server
+  Jenkins CI server based on the Jenkins:latest docker container.
 version: jenkins:latest
 category: Continuous Integration
