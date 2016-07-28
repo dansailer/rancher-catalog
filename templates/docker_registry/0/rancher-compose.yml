@@ -1,0 +1,13 @@
+.catalog:
+  name: Docker Registry
+  version: "v0.1.0_registry-frontend:latest"
+  description: |
+    It will install the docker registry frontend by konradkleine and the registry as a sidekick.
+    The registry can be accessed directly via the frontend.
+  questions:
+  - variable: "PORT"
+    type: "int"
+    label: "Port Number"
+    description: "Which port should the docker registry frontend listen on?"
+    default: 8080
+    required: true
