@@ -5,8 +5,4 @@ description: |
 version: v0.1.0
 category: Continuous Integration
 maintainer: Daniel Sailer
-projectURL: |
-  https://docs.docker.com/registry/deploying/
-  https://docs.docker.com/registry/
-  https://hub.docker.com/r/konradkleine/docker-registry-frontend/
-  https://github.com/kwk/docker-registry-frontend/tree/v2
+projectURL: https://hub.docker.com/r/konradkleine/docker-registry-frontend/
