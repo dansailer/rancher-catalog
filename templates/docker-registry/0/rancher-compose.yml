@@ -1,6 +1,6 @@
 .catalog:
   name: Docker Registry
-  version: "v0.1.0_registry-frontend:latest"
+  version: "v0.1.0"
   description: |
     It will install the docker registry frontend by konradkleine and the registry as a sidekick.
     The registry can be accessed directly via the frontend.

@@ -1,6 +1,6 @@
 name: Docker Registry
 description: |
-  It will install the docker registry frontend by konradkleine and the registry as a sidekick.
+  It will install the docker registry frontend by konradkleine and the latest official docker registry as a sidekick.
   The registry can be accessed directly via the frontend.
 version: v0.1.0
 category: Continuous Integration
